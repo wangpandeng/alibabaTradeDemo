@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\c40203f7d41e547a214f405563e87d89bd627008\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_a1ddc793675d17711c006c03182d6eb6ddc4a0da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\fa4cdce373b4e387f356c03c10d21aeb7b88cfc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="50448bb1d3c9260cc8fd6bb5575e87d7b1ca0b5b">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_6bc67c8a861ee3c920cee3fa8d40144e5c372ff1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.gradle\caches\modules-2\files-2.1\com.alibaba.alipay\alipaySingle\20160825\54d2df3b366123f2920605d6906a959619ac4dd8\alipaySingle-20160825.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="54d2df3b366123f2920605d6906a959619ac4dd8">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\alipaySingle-20160825_834db86ab54dae15ccb8f98f2d05862d3fbe695a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.gradle\caches\modules-2\files-2.1\com.ali.auth.sdk\alibabauth_core\1.4.3\94a85e41b28998ecacba22f26b6c534a953df23\alibabauth_core-1.4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="094a85e41b28998ecacba22f26b6c534a953df23">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\alibabauth_core-1.4.3_9e60fcedc25aff18d040a173edcc1055f0210b9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.gradle\caches\modules-2\files-2.1\com.taobao.android\utdid4all\1.1.5.3_proguard\989c3bb13060da1e3154bfe00236f76453a2725f\utdid4all-1.1.5.3_proguard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="989c3bb13060da1e3154bfe00236f76453a2725f">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\utdid4all-1.1.5.3_proguard_940dd18442efa43d86faf349b06e8e5916ec5341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.gradle\caches\modules-2\files-2.1\com.taobao.android\mtopsdk_allinone_open\1.2.2.4\6572b3342d7412f86a41193a8570dab8bc096b7b\mtopsdk_allinone_open-1.2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6572b3342d7412f86a41193a8570dab8bc096b7b">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\mtopsdk_allinone_open-1.2.2.4_e846f0ccc9efa76ca753e81f65619c1f72537be1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcb65a248085d9cc640997a34b412affebce6359">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_4f485f9cf8833e4533fb21069db34aaf162e25f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.gradle\caches\modules-2\files-2.1\com.alibaba.mtl\app-monitor-sdk\2.5.1.3_for_bc_proguard\8a852ea5d5257dc7f72f1e4e031531543f15ac26\app-monitor-sdk-2.5.1.3_for_bc_proguard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a852ea5d5257dc7f72f1e4e031531543f15ac26">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\app-monitor-sdk-2.5.1.3_for_bc_proguard_3e434bd0dbb284e00bf0b7ac3efcaaa81073f4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\a449de2fda11b24330090c53c94e5b991a0c916d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_4e6bf62b8eee6211a6ffdec52f89ccd8753e946b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\ea3039ecfbbe8942ae4f1691ec536edf9bb62ec2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4ebf7d7e79f8afcd03e73481792043fce3edb852">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_e143a8456253d41e8560c22631ef26ab33e825b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\common-1.0.0_6fb83b1852f72d056df81e6162c4ccf08f73e894.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\6889d08cb3954579981442f0d6ff80daa9393ebc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d912c051c932032141764f821d01172cc5f9cc78">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_5a91fd8000f51a2b0d457bcf2dfbd1bce759ea0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\common-1.0.0_5fd0ae6295446dcbe6a71fe188a80a8bb8548714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_a70eed85c4533bc6199cf4070bea982f18d18071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\c5953c37f52eef2f0f2f01c70eb0b36d075d7c56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_787aeea392fcc3aa1519acf7e4e76aff468e2bdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="577ef4c91b4ada2f80f16d053dc60748f667ecfa">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_231f59b56b23854adab94c2f9d572a1a6396e703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2c07db521d837a708dabede22705532b182cd51b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_8b640b02d8ad45e3fab8fb05467198d09fba8080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bce893b829644ac276c29bfe00ca2ddb09127a74">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_b94f19804fc3c362389086365d24e73f2fcf9c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f067607b0ca6f4421966379283dea27ef7bc63d0">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_429e2f880a985c255934b66f86a0024963ee0d64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9dd6e4d35c1b6e571dd585a8d0fa63b18ec9df02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_2b132a91320d47c184e28816aed29f1b32ef1b13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\0547c4853efdbfc903a588fb4db05a47e2f6b92f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_c6ffdab11c9e632b7653a6a4202cc56c937ce7a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\92885f74b5cb7882e54089a9e4e8551dcd4f8f38\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_866f9b7e36c2c91779b079cfb29364506bd0cc39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\373caefe102766e413d1ca6d831ee370c1b63296\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_fee6e9f73d7950e4773c48acad87d21701842d70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.9\3a6e5f623dccd587c3d3cffd4fde80261f326715\fastjson-1.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a6e5f623dccd587c3d3cffd4fde80261f326715">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\fastjson-1.2.9_7e903933d804c9356d2cf17767363f5f159e58fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9c85cc99ada383220b6f3db8dae2ebe7a011db9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_87977cc8c103008be793dfca5c98de0f264936d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\c532b9d489c7aefce262ecb77e73ca2e131dba80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\classes_5b9e465107c8319d53bff510498a0206e0235629.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.PC-20170524DZPQ\.gradle\caches\modules-2\files-2.1\com.ali.auth.sdk\alibabauth_ext\1.4.3\868d7e67a59b9ad60b99338bd611ebf272db86af\alibabauth_ext-1.4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="868d7e67a59b9ad60b99338bd611ebf272db86af">
+        <dex dex="E:\xiaotaobao\alisdk_trade_test_android\app\build\intermediates\pre-dexed\debug\alibabauth_ext-1.4.3_ce67b05d0621ffe3c976f236603bee0b72491780.jar" />
+    </item>
+
+</items>

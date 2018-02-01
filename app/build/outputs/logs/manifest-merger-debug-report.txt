@@ -1,0 +1,376 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:13:5-67
+MERGED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:17:5-67
+MERGED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:11:5-67
+MERGED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:13:5-67
+MERGED from [com.alimama.tunion.sdk:tuniontradesdk:0.3.2] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\fa4cdce373b4e387f356c03c10d21aeb7b88cfc0\output\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:12:5-81
+MERGED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:14:5-81
+MERGED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:8:5-84
+	android:name
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:8:22-81
+application
+ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:10:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9c85cc99ada383220b6f3db8dae2ebe7a011db9b\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\c5953c37f52eef2f0f2f01c70eb0b36d075d7c56\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\92885f74b5cb7882e54089a9e4e8551dcd4f8f38\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9dd6e4d35c1b6e571dd585a8d0fa63b18ec9df02\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\373caefe102766e413d1ca6d831ee370c1b63296\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\0547c4853efdbfc903a588fb4db05a47e2f6b92f\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\a449de2fda11b24330090c53c94e5b991a0c916d\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2c07db521d837a708dabede22705532b182cd51b\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\c532b9d489c7aefce262ecb77e73ca2e131dba80\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\c40203f7d41e547a214f405563e87d89bd627008\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:16:5-41:19
+MERGED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:24:5-27:19
+MERGED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:17:5-39:19
+MERGED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:19:5-70:19
+MERGED from [com.alibaba.sdk.android:alibc_trade_biz:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\6889d08cb3954579981442f0d6ff80daa9393ebc\output\AndroidManifest.xml:12:5-19:19
+MERGED from [com.alibaba.sdk.android:alibc_trade_common:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\ea3039ecfbbe8942ae4f1691ec536edf9bb62ec2\output\AndroidManifest.xml:11:5-12:19
+MERGED from [com.alimama.tunion.sdk:tuniontradesdk:0.3.2] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\fa4cdce373b4e387f356c03c10d21aeb7b88cfc0\output\AndroidManifest.xml:15:5-18:19
+	android:label
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:12:9-35
+		REJECTED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:25:9-36
+	android:icon
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:16:9-40
+	tools:replace
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:17:9-44
+	android:name
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:11:9-42
+activity#com.alibaba.sdk.trade.demo.AliSdkMenuActivity
+ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:19:9-24:20
+	android:name
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:19:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.alibaba.sdk.trade.demo.AliSdkWebViewProxyActivity
+ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:26:9-73
+	android:name
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:26:19-61
+activity#com.alibaba.sdk.trade.demo.AliSdkOrderActivity
+ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:27:9-66
+	android:name
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:27:19-54
+activity#com.alibaba.sdk.trade.demo.AliSdkTransactionActivity
+ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:28:9-72
+	android:name
+		ADDED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:28:19-60
+uses-sdk
+INJECTED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9c85cc99ada383220b6f3db8dae2ebe7a011db9b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\c5953c37f52eef2f0f2f01c70eb0b36d075d7c56\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\92885f74b5cb7882e54089a9e4e8551dcd4f8f38\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9dd6e4d35c1b6e571dd585a8d0fa63b18ec9df02\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\373caefe102766e413d1ca6d831ee370c1b63296\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\0547c4853efdbfc903a588fb4db05a47e2f6b92f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\a449de2fda11b24330090c53c94e5b991a0c916d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2c07db521d837a708dabede22705532b182cd51b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\c532b9d489c7aefce262ecb77e73ca2e131dba80\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\c40203f7d41e547a214f405563e87d89bd627008\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.alibaba.sdk.android:alibc_trade_biz:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\6889d08cb3954579981442f0d6ff80daa9393ebc\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.alibaba.sdk.android:alibc_trade_common:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\ea3039ecfbbe8942ae4f1691ec536edf9bb62ec2\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.alimama.tunion.sdk:tuniontradesdk:0.3.2] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\fa4cdce373b4e387f356c03c10d21aeb7b88cfc0\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9c85cc99ada383220b6f3db8dae2ebe7a011db9b\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9c85cc99ada383220b6f3db8dae2ebe7a011db9b\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\c5953c37f52eef2f0f2f01c70eb0b36d075d7c56\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\92885f74b5cb7882e54089a9e4e8551dcd4f8f38\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9dd6e4d35c1b6e571dd585a8d0fa63b18ec9df02\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\373caefe102766e413d1ca6d831ee370c1b63296\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\0547c4853efdbfc903a588fb4db05a47e2f6b92f\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\a449de2fda11b24330090c53c94e5b991a0c916d\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2c07db521d837a708dabede22705532b182cd51b\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\c532b9d489c7aefce262ecb77e73ca2e131dba80\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9c85cc99ada383220b6f3db8dae2ebe7a011db9b\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9c85cc99ada383220b6f3db8dae2ebe7a011db9b\output\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\c40203f7d41e547a214f405563e87d89bd627008\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\c40203f7d41e547a214f405563e87d89bd627008\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\c40203f7d41e547a214f405563e87d89bd627008\output\AndroidManifest.xml:26:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:11:5-79
+MERGED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:13:5-79
+MERGED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:12:5-79
+MERGED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:12:5-76
+MERGED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:14:5-76
+MERGED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:13:5-76
+MERGED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:15:5-76
+MERGED from [com.alimama.tunion.sdk:tuniontradesdk:0.3.2] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\fa4cdce373b4e387f356c03c10d21aeb7b88cfc0\output\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:14:5-68
+MERGED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:14:22-65
+activity#com.ali.auth.third.ui.webview.BaseWebViewActivity
+ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:17:9-20:69
+	android:screenOrientation
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:19:13-49
+	android:theme
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:18:13-77
+activity#com.ali.auth.third.ui.LoginWebViewActivity
+ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:21:9-24:69
+	android:screenOrientation
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:23:13-49
+	android:theme
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:24:13-66
+	android:name
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:22:13-70
+activity#com.ali.auth.third.ui.LoginActivity
+ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:25:9-28:75
+	android:screenOrientation
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:27:13-49
+	android:theme
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:28:13-72
+	android:name
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:26:13-63
+activity#com.ali.auth.third.accountlink.ui.BindResultActivity
+ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:29:9-32:75
+	android:screenOrientation
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:31:13-49
+	android:theme
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:30:13-80
+activity#com.ali.auth.third.accountlink.ui.UnbindWebViewActivity
+ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:33:9-36:69
+	android:screenOrientation
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:36:13-66
+	android:name
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:34:13-83
+activity#com.ali.auth.third.ui.QrLoginConfirmActivity
+ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:37:9-81
+	android:name
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:37:19-78
+activity#com.ali.auth.third.ui.QrLoginActivity
+ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:38:9-40:65
+	android:theme
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:40:13-62
+	android:name
+		ADDED from [com.ali.auth.sdk:alibabauth_ui:1.4.3] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\9cca4233109fb7416f539d34b92637bdc3ef4576\output\AndroidManifest.xml:39:13-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:11:5-80
+IMPLIED from E:\xiaotaobao\alisdk_trade_test_android\app\src\main\AndroidManifest.xml:2:1-31:12 reason: com.alibaba.wireless.security requested WRITE_EXTERNAL_STORAGE
+	android:name
+		ADDED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:15:5-75
+MERGED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:16:5-73
+	android:name
+		ADDED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:16:22-70
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_SETTINGS
+ADDED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:21:5-72
+	android:name
+		ADDED from [com.taobao.android:securityguardaar3:5.1.81] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\2fa2cc5e8376667ae8aa283c3879e72a7ab1f7f4\output\AndroidManifest.xml:21:22-69
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:15:22-76
+activity#com.alibaba.alibclinkpartner.ui.ALPWebviewActivity
+ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:18:9-20:88
+	android:configChanges
+		ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:20:13-85
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:19:13-78
+activity#com.alibaba.alibclinkpartner.ui.ALPCallbackActivity
+ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:21:9-24:20
+	android:configChanges
+		ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:23:13-85
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:22:13-79
+activity#com.alibaba.alibclinkpartner.ui.ALPEntranceActivity
+ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:25:9-38:20
+	android:configChanges
+		ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:27:13-85
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:26:13-79
+intent-filter#android.intent.category.DEFAULT+com.alibaba.intent.action.GETWAY
+ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:28:13-37:29
+action#com.alibaba.intent.action.GETWAY
+ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:29:17-75
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:29:25-72
+category#android.intent.category.DEFAULT
+ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:31:27-73
+data
+ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:33:17-36:47
+	android:host
+		ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:34:21-47
+	android:scheme
+		ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:36:21-44
+	android:pathPrefix
+		ADDED from [com.alibaba.sdk.android:alibc_link_partner:1.1.0.0] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\677e5812ae15aa63105aabb0b8f9afc39694b7c5\output\AndroidManifest.xml:35:21-51
+uses-permission#android.permission.RUN_INSTRUMENTATION
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:12:22-75
+activity#com.alibaba.baichuan.android.trade.ui.AlibcWebViewActivity
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:20:9-28:20
+	android:screenOrientation
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:22:13-49
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:21:13-86
+intent-filter#COM_TAOBAO_TAE_SDK_TRADE_WEB_VIEW_ACTION+android.intent.category.DEFAULT
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:23:13-27:29
+action#COM_TAOBAO_TAE_SDK_TRADE_WEB_VIEW_ACTION
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:24:17-83
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:24:25-80
+activity#com.alibaba.baichuan.android.trade.ui.AlibcBackActivity
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:29:9-41:20
+	android:launchMode
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:32:13-44
+	android:exported
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:30:13-83
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:33:13-40:29
+action#android.intent.action.VIEW
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:34:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:37:27-75
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:42:9-46:50
+	android:screenOrientation
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:46:13-47
+	android:exported
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:45:13-37
+	android:configChanges
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:44:13-74
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:43:13-60
+activity#com.alipay.sdk.auth.AuthActivity
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:47:9-51:50
+	android:screenOrientation
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:51:13-47
+	android:exported
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:50:13-37
+	android:configChanges
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:48:13-60
+service#anetwork.channel.aidl.NetworkService
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:54:9-60:19
+	android:exported
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:55:13-64
+intent-filter#anetwork.channel.aidl.IRemoteNetworkGetter
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:57:13-59:29
+action#anetwork.channel.aidl.IRemoteNetworkGetter
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:58:17-85
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:58:25-82
+service#mtopsdk.xstate.XStateService
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:61:9-67:19
+	android:exported
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:62:13-56
+intent-filter#mtopsdk.xstate.aidl.IXState
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:64:13-66:29
+action#mtopsdk.xstate.aidl.IXState
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:65:17-70
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:65:25-67
+uses-library#android.test.runner
+ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:69:9-60
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_trade_sdk:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\790db41698529bc589046e8aeaef1b8202fd130b\output\AndroidManifest.xml:69:23-57
+activity#com.alibaba.baichuan.trade.biz.auth.AlibcAuthActivity
+ADDED from [com.alibaba.sdk.android:alibc_trade_biz:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\6889d08cb3954579981442f0d6ff80daa9393ebc\output\AndroidManifest.xml:13:9-18:20
+	android:screenOrientation
+		ADDED from [com.alibaba.sdk.android:alibc_trade_biz:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\6889d08cb3954579981442f0d6ff80daa9393ebc\output\AndroidManifest.xml:16:13-49
+	android:exported
+		ADDED from [com.alibaba.sdk.android:alibc_trade_biz:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\6889d08cb3954579981442f0d6ff80daa9393ebc\output\AndroidManifest.xml:15:13-37
+	android:theme
+		ADDED from [com.alibaba.sdk.android:alibc_trade_biz:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\6889d08cb3954579981442f0d6ff80daa9393ebc\output\AndroidManifest.xml:17:13-61
+	android:name
+		ADDED from [com.alibaba.sdk.android:alibc_trade_biz:3.1.1.206] C:\Users\Administrator.PC-20170524DZPQ\.android\build-cache\6889d08cb3954579981442f0d6ff80daa9393ebc\output\AndroidManifest.xml:14:13-81

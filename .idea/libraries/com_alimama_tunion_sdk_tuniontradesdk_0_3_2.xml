@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.alimama.tunion.sdk:tuniontradesdk-0.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/fa4cdce373b4e387f356c03c10d21aeb7b88cfc0/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/fa4cdce373b4e387f356c03c10d21aeb7b88cfc0/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

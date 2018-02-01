@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.alibaba.sdk.android:alibc_trade_sdk-3.1.1.206">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/790db41698529bc589046e8aeaef1b8202fd130b/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/790db41698529bc589046e8aeaef1b8202fd130b/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
